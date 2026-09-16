@@ -1,0 +1,15 @@
+{
+  "name": "forex-news-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for forex news, rates, economic events, and alerts",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
